@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name: cash Advance Calculator
- * Plugin URI: http://gabecode.com
+ * Plugin URI: https://github.com/gcoronado5100/cash-advance-calc-AG
  * Description: a Simple block that contains a Cash advance Calculator, custom made (with love <3 ) by Your Dev Apps Manager Gabriel. Use the shortcode [ldb-cash-calculator] in the page you want to display the block
  * Version: 1.1
  * Requires at least: 5.2
